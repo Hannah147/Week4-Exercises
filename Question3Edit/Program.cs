@@ -15,7 +15,7 @@ namespace Question3
 
             BankAccount JohnsAccount = new BankAccount(1234, "John", 200);
 
-            BankAccount MarysAccount = new BankAccount(4321, "Mary", 3000);
+            BankAccount MarysAccount = new BankAccount(4321, "Mary", 31000);
 
             WriteLine(JohnsAccount);
 
